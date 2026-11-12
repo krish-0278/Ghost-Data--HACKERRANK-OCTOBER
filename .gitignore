@@ -1,0 +1,16 @@
+# Outputs
+output.csv
+*.csv
+
+# Logs
+*.log
+log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
